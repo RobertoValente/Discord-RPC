@@ -36,7 +36,7 @@ async function activity() {
             },
             {
                 label: `🤩 Crie o seu Custom-RPC`,
-                url: `https://github.com/RobertoValente`,
+                url: `https://github.com/RobertoValente/Discord-RPC`,
             }
         ]
     })
