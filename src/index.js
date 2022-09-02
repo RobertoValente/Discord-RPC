@@ -22,17 +22,17 @@ async function activity() {
     rpc.setActivity({
         details: config.detailsTxt,
         state: config.stateTxt,
-        //startTimestamp: Date.now(),
-        startTimestamp: 0,
+        startTimestamp: Date.now(),
+        //startTimestamp: 0,
         largeImageKey: config.largeImageKey,
         largeImageText: config.largeImageText,
-        /*smallImageKey: config.smallImageKey,
-        smallImageText: config.smallImageText,*/
+        smallImageKey: config.smallImageKey,
+        smallImageText: config.smallImageText,
         instance: false,
         buttons: [
             {
-                label: `🎁 Surpresa`,
-                url: `https://youtu.be/dQw4w9WgXcQ`,
+                label: `📷 Instagram`,
+                url: `https://instagram.com/robertoo.valente`,
             },
             {
                 label: `🤩 Crie o seu Custom-RPC`,

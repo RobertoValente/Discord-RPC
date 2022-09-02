@@ -1,16 +1,16 @@
 # <center> ⭐ **Discord-RPC Personalizado** ⭐ </center>
 
-📌 **Requisitos:**
+## 📌 **Requisitos:**
 1. [Conta de Discord](https://discord.com)
 2. [NodeJS + NPM](https://nodejs.org/en/)
 
-🤔 **Como Usar:**
+## 🤔 **Como Usar:**
 1. Clone este Repositório: 
-<br>```git clone https://github.com/RobertoValente/Discord-RPC.git```
-2. Instale as Dependências usando:
-<br> ```npm i```
-3. Crie uma Aplicação pelo [Discord Developer Portal](https://discord.com/developers/applications)
-4. Obtenha o ID da sua Aplicação na aba **__OAuth2__**
-5. Adicione imagens para Futuramente personalizar os seus Status na aba **__Rich Presence__**
+<br>```git clone https://github.com/RobertoValente/Discord-RPC.git && cd Discord-RPC && npm i```
+2. Crie uma Aplicação pelo [Discord Developer Portal](https://discord.com/developers/applications).
+3. Obtenha o ID da sua Aplicação na aba **__OAuth2__**.
+4. No arquivo src/config.json, substitua `applicationId` pelo Id copiado no passo anterior.
+5. Agora basta libertar a sua criatividade!
 
-# USAR GIF'S PARA EXPLICAR
+## 😁 Aviso:
+- **Qualquer dúvida ou curiosidade, pode [contactar-me](https://github.com/RobertoValente/RobertoValente)!**
