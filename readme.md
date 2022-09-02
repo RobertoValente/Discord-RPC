@@ -10,7 +10,8 @@
 2. Crie uma Aplicação pelo [Discord Developer Portal](https://discord.com/developers/applications).
 3. Obtenha o ID da sua Aplicação na aba **__OAuth2__**.
 4. No arquivo src/config.json, substitua `applicationId` pelo Id copiado no passo anterior.
-5. Agora basta libertar a sua criatividade!
+5. Para iniciar o RPC, basta clicar 2 vezes no arquivo `start.vbs`.
+6. Agora basta libertar a sua criatividade!
 
 ## 😁 Aviso:
 - **Qualquer dúvida ou curiosidade, pode [contactar-me](https://github.com/RobertoValente/RobertoValente)!**
