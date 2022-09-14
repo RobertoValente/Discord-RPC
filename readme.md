@@ -5,7 +5,7 @@
 2. [NodeJS + NPM](https://nodejs.org/en/)
 
 ## 🤔 **Como Usar:**
-1. Clone este Repositório: 
+1. Clone este Repositório e inicialize-o: 
 <br>```git clone https://github.com/RobertoValente/Discord-RPC.git && cd Discord-RPC && npm i```
 2. Crie uma Aplicação pelo [Discord Developer Portal](https://discord.com/developers/applications).
 3. Obtenha o ID da sua Aplicação na aba **__OAuth2__**.
