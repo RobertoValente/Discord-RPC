@@ -13,6 +13,14 @@
 5. Para iniciar o RPC, basta clicar 2 vezes no arquivo `start.vbs`.
 6. Agora basta libertar a sua criatividade!
 
-## 😁 Aviso:
+## 🆘 **Como Deixar de Usar:**
+1. Abrir o Gestor de Tarefas 
+2. Procurar por: Processos em Segundo Plano
+3. Procurar por: Node.Js JavaScript Runtime
+4. Clicar com Botão Direito do Mouse > Terminar Tarefa
+
+## 😁 Informações Adicionais:
 - **Qualquer dúvida ou curiosidade, pode [contactar-me](https://github.com/RobertoValente/RobertoValente)!**
-- Ps.: Agradeço ideias para melhorar este ReadMe.md e ajudar outras pessoas
+- **Para ideias de Personalização do seu RPC, pode pesquisar por `DiscordRPC Personalization (ou algo semelhante)` em qualquer Navegador Web.**
+- Ps.: Agradeço ideias para melhorar este ReadMe.md e ajudar outras pessoas!
+- Ps2.: Caso pretenda costumizar o Código-Fonte, inicie o Projeto no seu Computador através de `node .`!
