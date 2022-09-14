@@ -13,6 +13,9 @@
 5. Para iniciar o RPC, basta clicar 2 vezes no arquivo `start.vbs`.
 6. Agora basta libertar a sua criatividade!
 
+### 🎁 **Com um pouco de Criatividade:**
+<img src="https://media.discordapp.net/attachments/942048998720696323/1019704327503364096/unknown.png?width=705&height=308" alt="Exemplo do Resultado de Teste" width="568" height="249">
+
 ## 🆘 **Como Deixar de Usar:**
 1. Abrir o Gestor de Tarefas 
 2. Procurar por: Processos em Segundo Plano
